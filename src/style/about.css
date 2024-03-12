@@ -1,0 +1,7 @@
+.about-section-1-img{
+    border: '50px solid';
+    border-color: transparent #13357B transparent #13357B;
+}
+.about-section-1-content{
+    background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../assets/about-img.jpg);
+}
